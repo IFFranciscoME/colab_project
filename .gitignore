@@ -1,3 +1,23 @@
+
+# ---------- Added manually ---------- #
+
+# pycharm project folder
+.idea/
+
+# vscode project folder
+.vscode/
+
+# vscode project workspace
+colab_project.code-workspace
+
+# virtual environment
+colab_project_venv/
+
+# files (sometimes is useful to include)
+files/
+
+# ---------- ------------- ---------- #
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
